@@ -4,14 +4,15 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Weather Forecast</title>
     <link rel="stylesheet" href="./assets/style.css" />
+
+    <title>Weather Forecast</title>
   </head>
   <body onload="DefaultScreen()">
     <center>
       <h1 id="para1">5-DAYS WEATHER FORECAST</h1>
       <p id="inputContainer">City:<input type="text" id="cityInput" /></p>
-      <button onclick="GetInfo()">Click Me</button>
+      <button type="button" onclick="GetInfo()">Click Me</button>
       <h2 id="cityName">--Kigali--</h2>
     </center>
     <div id="weatherContainer">
@@ -93,6 +94,6 @@
         </div>
       </div>
     </div>
-    <script src="./assets/script.js"></script>
+    <script src="/assets/script.js"></script>
   </body>
 </html>
