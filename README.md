@@ -102,3 +102,5 @@ You are required to submit BOTH of the following for review:
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 Link https://muturich.github.io/5-Days-Weather-Forecast/
+
+![image](https://user-images.githubusercontent.com/87868537/203839004-fd7e75a8-fce7-4d15-b110-54eef42a387d.png)
